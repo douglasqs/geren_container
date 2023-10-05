@@ -61,3 +61,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+print('Fim da atividade avaliava 1. Controle de versão com Git')
